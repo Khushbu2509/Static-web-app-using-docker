@@ -1,4 +1,3 @@
-<img width="1365" height="727" alt="image" src="https://github.com/user-attachments/assets/5f677129-523f-474b-88da-59e866159b78" />A simple static website project.
 
 1. Project Overview
 
@@ -31,7 +30,7 @@ iii. Run the Docker container:
 iv. Open your website:
        Go to http://localhost:8080 in your browser.
        it will look like this:
-
+     <img width="1365" height="727" alt="image" src="https://github.com/user-attachments/assets/5f677129-523f-474b-88da-59e866159b78" />A simple static website project.
 
 v. Stop the Container:
     - docker ps                # find the container ID
